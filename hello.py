@@ -1,4 +1,4 @@
 print("Hello")
 print('nah lho')
-if true:
+if True:
   print("nah")
